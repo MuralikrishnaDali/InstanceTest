@@ -2,6 +2,7 @@
 blob.
 Compiled class file
 *.class
+tag
 
 # Log file
 *.log
